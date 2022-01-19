@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning Brainfuck
 - 📫 How to reach me cemmcifkurt@gmail.com
 
+- Coding Languages I know and used past ⬇️
+
